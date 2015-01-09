@@ -1,0 +1,2 @@
+#!/bin/sh
+~/src/twemproxy/src/nutcracker -c nut.conf
